@@ -1,0 +1,788 @@
+{
+  "igrejas":[
+      
+         [
+     {   
+"municipio": "Angra dos Reis - RJ",
+"nome": "Angra dos Reis-RJ",
+"pastor": "Wesley Cristian Almeida da Silva (Lislane Cristina)",
+"endereco": "Rua Japoranga, 113, Japuíba, Angra dos Reis",
+"tel": "(21) 9868-00534",
+"email": "wesley.minister@gmail.com",
+"img": ""
+},             
+{   
+"municipio": "Barra Mansa- RJ",
+"nome": "Barra Mansa",
+"pastor": "Anderson deAndrade",
+"endereco": "Rua Coliseu, 33, Goibal, Barra Mansa",
+"tel": "(24) 9882-81013",
+"email": "andersonsier256@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Belford Roxo - RJ",
+"nome": "Nova Esperança",
+"pastor": "Izaque da Conceição Guedes (Jornânia Guedes)",
+"endereco": "R. Felipe Antonio Lopes Pinto, 32, Xavantes – Belford Roxo",
+"tel": "(21) 2769-8214",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Areia Branca",
+"pastor": "Mario Andre Pereira de Almeida",
+"endereco": "Rua Júlio Braga, 407, Areia Branca - Belford Roxo",
+"tel": "(21) 3765-3942",
+"email": "marioalmeida01@yahoo.com.br",
+"img": ""
+},
+
+ {   
+"municipio": "",
+"nome": "Central de Belford Roxo",
+"pastor": "Luis Felipe Nunes Borduam (Daiane Santos)",
+"endereco": "Est. Plínio Casado, 3845 - Centro - Belford Roxo",
+"tel": "(21) 3582-4902",
+"email": "luisfelipeborduam@hotmail.com",
+"img": ""
+},  
+
+{   
+"municipio": "",
+"nome": "Sargento Roncalli",
+"pastor": "Severino Rufino dos Santos Filho (Maria Francisca)",
+"endereco": "Rua Ten. Honório Leite Pôrto, 50, Belford Roxo, Sargento Roncalli – Belford Roxo",
+"tel": "(21) 97577-7350",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "Eng. Paulo de Frontin - RJ",
+"nome": "Sacra Família",
+"pastor": "Washington Rodrigues de Souza (Andréia Melo)",
+"endereco": "Rua Roger Malhardes, 200 - Sacra Família – Eng. Paulo de Frontin",
+"tel": "(21) 98134-0638",
+"email": "prwashington1972@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "Japeri - RJ",
+"nome": "Engenheiro Pedreira",
+"pastor": "João Carlos Corrêa Firmino (Cláudia Firmino)",
+"endereco": "Est. Santo Antônio, 471 - Eng. Pedreira - Japeri - RJ",
+"tel": "(21) 2763-2166",
+"email": "jcdecorativos@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "Maricá - RJ",
+"nome": "Itaipuaçu",
+"pastor": "Alex da Silva Sena (Jasiane Sena)",
+"endereco": "R. Prof. Cardoso de Menezes, Qd 119, Lt 116, Maricá",
+"tel": "(21) 3732-0441",
+"email": "nazakids@zipmail.com.br",
+"img": ""
+},
+{   
+"municipio": "Mesquita - RJ",
+"nome": "Jacutinga",
+"pastor": "Fernando Luiz de Lima (Loide Lima)",
+"endereco": "Rua Paulo Emílio Correia, 119, Jacutinga, Mesquita",
+"tel": "(21) 2697-4752",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Banco de Areia",
+"pastor": "Fábio Santos do Nascimento (Cíntia Nascimento)",
+"endereco": "Rua Manacá, 33 Banco de Areia, Mesquita",
+"tel": "(21) 2792-3186",
+"email": "pr.fabionascimento@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Central do BNH",
+"pastor": "Arley Denner Teixeira Ramos (Daniela Morais)",
+"endereco": "Av. dos Oliveiras, 537, BNH, Mesquita",
+"tel": "(21) 98135-6050",
+"email": "arleydenner@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Chatuba",
+"pastor": "Almir Albano de Freitas (Karine De Freitas)",
+"endereco": "Rua Lídia, 1295, Chatuba - Mesquita",
+"tel": "(21) 3844-7401",
+"email": "perside5@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Coréia",
+"pastor": "Irinaldo Reis dos Santos (Regina Santos)",
+"endereco": "Rua Amazonas, 610, Coréia - Mesquita",
+"tel": "(21) 2696-0228",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Cosmorama",
+"pastor": "Daniel Monteiro Nobre Leite (Valesca Leite)",
+"endereco": "Rua Amadeu Rodrigues Campos Fraga, 121 – Cosmorama - Mesquita",
+"tel": "(21) 98801-4785",
+"email": "revleite@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Edson Passos",
+"pastor": "Amadeu Henrique da Silva Nunes (Renata Nunes)",
+"endereco": "Est. Pres. Costa E Silva, 739 - Mesquita",
+"tel": "(21) 2796-5776",
+"email": "pramadeuhenrique470@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Jucelino",
+"pastor": "José Carlos Diniz de Lemos (Helena Lemos)",
+"endereco": "R. Cel. Bernardino de Melo, 341, Juscelino - Mesquita",
+"tel": "(21) 99741-5297",
+"email": "jcarlosdiniz1@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Mesquita",
+"pastor": "Amadeu Aparecido Teixeira (Esneda Teixeira)",
+"endereco": "Av. União, 1400 - Sta. Terezinha - Mesquita",
+"tel": "(21) 2796-6900",
+"email": "nazareno.in@uol.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Alto Uruguai",
+"pastor": "Bruno José da Silva Oliveira (Ana Lúcia)",
+"endereco": "Travessa Tulipa, 40, Centro - Mesquita",
+"tel": "(21) 9859-46661",
+"email": "brunojoliveira1@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Rocha Sobrinho",
+"pastor": "Francisco Eloy de Souza Júnior (Luci De Souza)",
+"endereco": "R. Robert Kennedy, 276, Rocha Sobrinho - Mesquita",
+"tel": "(21) 2697-7275",
+"email": "pastoreloy@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Maanaim (Santo Elias)",
+"pastor": "André Luiz Batista da Silva (Mariza Quirino)",
+"endereco": "Av. Gov. Celso Peçanha, 868, Santo Elias - Mesquita",
+"tel": "(21) 2792-4178",
+"email": "nazareno_maanaim@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Serra",
+"pastor": "Naymes Rodrigues Pinheiro (Marilene Pinheiro)",
+"endereco": "R. Alberto Lopes Lima, 276, Sta Terez. - Mesquita",
+"tel": "(21) 97975-1336",
+"email": ""
+},
+
+{   
+"municipio": "",
+"nome": "União",
+"pastor": "Nilo Lucas de Jesus (Ana de Jesus)",
+"endereco": "Rua José Nascimento, 21, Centro - Mesquita",
+"tel": "(21) 2696-9740",
+"email": "rvnilolucas@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Vila Emil",
+"pastor": "Edson Mello de Oliveira (Suzana Mello)",
+"endereco": "Rua Prof. Rakel Rechuem, 38, Vila Emil - Mesquita.",
+"tel": "(21) 3589-3618",
+"email": "nazareno.vilaemil@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Nova Iguaçu - RJ",
+"nome": "Austin I",
+"pastor": "José Luiz Macedo (Lúcia Helena)",
+"endereco": "Av. Beira Rio, 99, Pq. da Biquinha, Austin, Nova Iguaçu",
+"tel": "(21) 3699-2431",
+"email": "revmacedo@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Austin II",
+"pastor": "Paulo David Gonçalves",
+"endereco": "Rua Cel. Monteiro de Barros, 1165 – Austin – Nova Iguaçu",
+"tel": "(21) 2763-2455",
+"email": "prpaulodavid@ibest.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Cabuçu",
+"pastor": "Roberto Carlos Rodrigues Martins (Lúria Argolo)",
+"endereco": "Rua Nova Friburgo, S/N, Cabuçu - Nova Iguaçu",
+"tel": "(21) 3821-1940",
+"email": "nazarenocabucu2015@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Central da Palhada",
+"pastor": "Joabe Acácio dos Santos (Rejane dos Santos)",
+"endereco": "Estrada da Palhada, 835, Palhada, Nova Iguaçu",
+"tel": "(21) 98414-7369",
+"email": "pracacio@bol.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Comendador Soares",
+"pastor": "Hélio Moreira Júnior",
+"endereco": "Rua Buick Damasceno, 105 – Lj 4 – Jd Iguaçu - Nova Iguaçu.",
+"tel": "(21) 3773-1094",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Grão Pará",
+"pastor": "Antônio Carlos Dos Santos Silva (Marinês Brito)",
+"endereco": "Av. Abílio Augusto Távora, 499, Jd Paraíso – Nova Iguaçu",
+"tel": "(21) 2764-4841",
+"email": "antoniocarlosacp@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "K11",
+"pastor": "Paulo Moreira Cotta (Lucinéia Bandeira)",
+"endereco": "Rua Bernardino de Melo, 1013, K11, Nova Iguaçu",
+"tel": "(21) 96445-9898",
+"email": "prpaulocotta@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "KM32",
+"pastor": "Gustavo Araújo Ferreira (Lucy Serpa)",
+"endereco": "Rua Santa Joana, Lt 14 Qd 30 - Km 32 - Nova Iguaçu",
+"tel": "(21) 2686-4490",
+"email": "clientekm32@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Jardim Itamaraty",
+"pastor": "Irinaldo Reis dos Santos (Regina Santos)",
+"endereco": "Rua Luiz Maria Ribeiro, 106 - Jd Itamaraty - Nova Iguaçu",
+"tel": "(21) 2696-0228",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Jardim Nazaré",
+"pastor": "Carlos Eduardo dos Santos Pereira (Bianca Pereira)",
+"endereco": "Est. Dr. Mário Pinot, 1567 - Jd. Nazaré – Nova Iguaçu",
+"tel": "(21) 3244-5558",
+"email": "carloseduardo740@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Jardim Pernambuco",
+"pastor": "Roberto Cunha De Souza (Silvana Souza)",
+"endereco": "Rua Vitória, 319, Jd Pernambuco, Comendador Soares – Nova Iguaçu",
+"tel": "(21) 2697-3059",
+"email": "cunha_46@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Miguel Couto",
+"pastor": "Alexandre Soares da Silva (Carla Danielle)",
+"endereco": "Est. de Miguel Couto, 453, Miguel Couto, Nova Iguaçu",
+"tel": "(21) 96738-1023",
+"email": "nazarenomcouto@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Monte Castelo",
+"pastor": "Wilson Diogo Leite (Carmem Leite)",
+"endereco": "Rua Eliana Cotrim, 55 - Monte Castelo – Nova Iguaçu",
+"tel": "(21) 3101-8661",
+"email": "wilson_dileite@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Nova Iguaçu I - Bairro da Luz",
+"pastor": "Charles Luis Vieira Carneiro (Ariany Bandeira)",
+"endereco": "R. Humberto de Campos, 280, Bairro da Luz, Nova Iguaçu",
+"tel": "(21) 98474-1657",
+"email": "chalv1970@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Nova Iguaçu II - Posse",
+"pastor": "Márcio dos Santos Cruz (Cláudia Cruz)",
+"endereco": "Av. Henrique Duque Estrada Meyer, 638 – Posse – Nova Iguaçu",
+"tel": "(21) 3793-1578",
+"email": "mscnaves@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Nova Iguaçu III - Primeira",
+"pastor": "Rosevelton Alves (Denise Alves)",
+"endereco": "Rua Antônio Rabelo Guimarães, 301 - Centro – Nova Iguaçu",
+"tel": "(21) 96438-9012",
+"email": "primeironadenovaiguacu@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Nova Iguaçu IV - Central",
+"pastor": "Luiz Carlos Lima Filho (Laudelina Amélia)",
+"endereco": "Av. Gov. Portela, 525, Centro - Nova Iguaçu",
+"tel": "(21) 3021-5462",
+"email": "nazarenocni@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Parque dos Artistas",
+"pastor": "Adir Santos do Nascimento (Alba Regina)",
+"endereco": "Estrada da Palhada, 3002 - Parque dos Artistas – Nova Iguaçu",
+"tel": "(21) 3794-4663",
+"email": "adirsantosdonascimento@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Valverde",
+"pastor": "Márcio Fernandes de Lyra (Rosângela Lyra)",
+"endereco": "Rua Jorgelina Gonçalves Martins, 33, Valverde – Nova Iguaçu",
+"tel": "(21) 96437-0051",
+"email": "prmarcioflyra@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Vila Belga",
+"pastor": "Rosevelton Alves (Denise Alves)",
+"endereco": "R. Seis, 120, Conj. Vila Belga – Marapicu – Nova Iguaçu",
+"tel": "(21) 96438-9012",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Vila Nova",
+"pastor": "José Carlos Diniz de Lemos (Helena Lemos)",
+"endereco": "Rua Roberto Simonsen – Vila Nova – Nova Iguaçu",
+"tel": "(21) 99741-5297",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Califórnia",
+"pastor": "Jorge Viana da Cruz (Gisélia Cruz)",
+"endereco": "Rua Cel. Francisco Soares, 846, California, Nova Iguaçu",
+"tel": "(21) 96459-5726",
+"email": "amaviobjetos@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Paraíba do Sul - RJ",
+"nome": "Paraíba do Sul",
+"pastor": "Anderson Luiz Pereira de Oliveira",
+"endereco": "Rua Sempre Viva, 96, Inema, Paraíba do Sul",
+"tel": "(21) 97443-8281",
+"email": "alpoanderson@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Central de Paraíba do Sul",
+"pastor": "Fábio Pereira Da Costa (Geni Trancoso)",
+"endereco": "Av. das Nações, 646, Limoeiro - Paraíba Do Sul",
+"tel": "(24) 2263-4356",
+"email": "pr-fabionaza@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Paraíba do Sul - Campo Missionário",
+"pastor": "Marcelo de Almeida E Silva (Ana Lúcia Silva)",
+"endereco": "Av. Avelino Teixeira De Oliveira, S/N, Belavista - Paraíba do Sul",
+"tel": "(24) 2266-1639",
+"email": "pr.mda@bol.com.br",
+"img": ""
+},
+
+{   
+"municipio": "Pinheiral - RJ",
+"nome": "Pinheiral",
+"pastor": "Rivaldo de Oliveira",
+"endereco": "Av. Guanabara, 126, Centro, Pinheiral",
+"tel": "(24) 9885-73337",
+"email": "janete.rivaldo@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Queimados - RJ",
+"nome": "Queimados",
+"pastor": "Gilson Gomes de Oliveira (Ivone Oliveira)",
+"endereco": "Rua Olímpia, 60a, Centro - Queimados",
+"tel": "(21) 2763-0555",
+"email": "vilmar.leonice@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Resende - RJ",
+"nome": "Resende",
+"pastor": "Sérgio de Souza Rodrigues (Carla Rosa)",
+"endereco": "Rua Um, 25, Jardim Aliança, Resende",
+"tel": "(24) 2109-1339",
+"email": "sergiorodriguespr@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Rio de Janeiro - RJ",
+"nome": "Campo Grande",
+"pastor": "Marinês Josefa de Brito (Antonio Carlos)",
+"endereco": "Estrada Rio São Paulo, 113, Campo Grande – Rio de Janeiro",
+"tel": "(21) 2799-3380",
+"email": "pastora.marinesbrito@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Realengo",
+"pastor": "Leandro dos Santos Lima",
+"endereco": "Rua Cristalina, 277, Realengo - Rio de Janeiro",
+"tel": "(21) 99452-4607",
+"email": "leo10.lima@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Recreio dos Bandeirantes",
+"pastor": "Laudelina Amélia de Souza Lima (Luiz Lima)",
+"endereco": "Rua Ver. Alceu de Carvalho, 1020, Recreio dos Bandeirantes",
+"tel": "(21) 98078-4460",
+"email": "laudelinalima@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Zona sul - Botafogo",
+"pastor":"Jucemir Rodrigues dos S. Pimenta (Márcia Pimenta)",
+"endereco": "Rua da Passagem, 47, Botafogo- Rio de Janeiro",
+"tel": "(21) 3046-5484",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Pça da Bandeira",
+"pastor": "Rafael Maciel de Almeida Martins (Bianca Martins)",
+"endereco": "Rua Barão de Iguatemi, 46, Praça da Bandeira, Rio de Janeiro",
+"tel": "(21) 98884-1005",
+"email": "rafael.martins@rmempresarial.com.br",
+"img": ""
+},
+
+{   
+"municipio": "Volta Redonda - RJ",
+"nome": "Siderlândia",
+"pastor": "Jorbeson Mol da Silva (Simone Silva)",
+"endereco": "Av. Adalberto de Barros Nunes, 6531, Siderlândia – Volta Redonda",
+"tel": "(24) 3346-8679",
+"email": "jbesonmol@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Central de Volta Redonda",
+"pastor": "José Guilherme Stoduto (Vera Stoduto)",
+"endereco": "R. Misael Mendonça, 191, Aterrado - Volta Redonda",
+"tel": "(24) 3346-8260",
+"email": "prjoseguilherme@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Volta Redonda - Açude",
+"pastor": "Giulio César Stoduto (Michele Carli)",
+"endereco": "Av. Francisco Antônio Francisco, 445, Açude - Volta Redonda",
+"tel": "(24) 98837-8880",
+"email": "giuliostoduto@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Volta Redonda - Retiro",
+"pastor": "Luis Fernando Rabelo Nascimento",
+"endereco": "Av. Retiro, 4066, Retiro, Volta Redonda",
+"tel": "(24) 3337-5449",
+"email": "comercial@lftelecom.com.br",
+"img": ""
+},
+
+{   
+"municipio": "Teresópolis - RJ",
+"nome": "Teresópolis",
+"pastor": "Rosevelton Alves (Denise Alves)",
+"endereco": "R. Cel. Antônio Santiago, 51, Agriões, Teresópolis",
+"tel": "21) 96438-9012",
+"email": "pinteresopolis@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Três Rios - RJ",
+"nome": "Três Rios",
+"pastor": "Fábio Valério Barros Teixeira (Ivaneide Pitta)",
+"endereco": "Rua Prof. Moreira, 823, Vila Isabel - Três Rios",
+"tel": "(24) 9887-82650",
+"email": "alrio.barrosteixeira7@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Mato Grosso do Sul",
+"nome": "Corumbá",
+"pastor": "José Libermânio G. da Silva Júnior (Helena Castagnari)",
+"endereco": "Rua Frei Mariano, 1248, Corumbá - MS",
+"tel": "(67) 3231-8548",
+"email": "prlibermanio@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Ladário",
+"pastor": "Luiz Carlos Miranda Fontes (Silvana Fontes)",
+"endereco": "Rua Riachuelo, 1731 – Ladário - MS",
+"tel": "(67) 3233-6338",
+"email": "fontes.sil@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "Minas Gerais",
+"nome": "Central de Juiz de Fora",
+"pastor": "Renato Siqueira Santos (Sílvia Helena)",
+"endereco": "Av. 7 de Setembro, 992, Centro, J. Fora- MG",
+"tel": "(32) 9912-56312",
+"email": "nazajuf@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Dom Bosco",
+"pastor": "Silvia Helena Andrade Alves (Renato Siqueira)",
+"endereco": "Rua Bello Vale, 26, Dom Bosco, Juiz de Fora - MG",
+"tel": "(32) 8856-4553",
+"email": "paxtorasilvia@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Dores de Campos",
+"pastor": "Carlos Eduardo da Silva Santos (Denise Santos)",
+"endereco": "R. Sebastião Resende, 205, Centro, Dores de Campos - MG",
+"tel": "(32) 3353-2466",
+"email": "pr.edunaza@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Juiz de Fora II",
+"pastor": "João Batista Fernandes Souza (Neide Souza)",
+"endereco": "Rua Heitor Soares De Almeida - 7 - Santa Cecília – Juiz de Fora - MG",
+"tel": "(32) 3232-3060",
+"email": "joaobfssouza@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Muriaé",
+"pastor": "Reginaldo Carvalho Leite (Ruth Leite)",
+"endereco": "Rua Itamuri, 61a, Centro - Muriaé - MG",
+"tel": "(32) 8854-5683",
+"email": "prreginaldoleite@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Simão Pereira",
+"pastor": "David Souza da Silva",
+"endereco": "Rua São José, 89, Centro - Simão Pereira - MG",
+"tel": "(32) 3272-1405",
+"email": "prdavidasilva@gmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Vila Alpina",
+"pastor": "Rosimar Maria Culaoni",
+"endereco": "Rua Eurico Viana, 743, Vila Alpina, Juiz de Fora - MG",
+"tel": "(32) 9881-31931",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Barroso",
+"pastor": "Vinicius Magno Borges Nunes Couto",
+"endereco": "R Guanabara, 330, Jd Bandeirantes, Barroso - MG",
+"tel": "(32) 9994-8837",
+"email": "prviniciuscouto@yahoo.com.br",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Barbacena",
+"pastor": "Leandro Rechia",
+"endereco": "R Silva Jardim, 393 B, Boa Morte, Barbacena - MG",
+"tel": "(32) 99199-0352",
+"email": "leandro.rechia@arysca.com",
+"img": ""
+},
+
+
+{   
+"municipio": "Tocantins",
+"nome": "Jardim Aureny III",
+"pastor": "Clóvis de Mendonça Miguel",
+"endereco": "Avenida 1. Qd 126, Lt 16, Sl 3 - Jd Aureny III (Taquaralto) - Palmas - TO",
+"tel": "(63) 98416-4298",
+"email": "clovismmiguel@gmail.com",
+"img": ""
+},
+
+
+{   
+"municipio": "",
+"nome": "Gurupi",
+"pastor": "Jaldo Martins Dos Santos (Alaíde Santos)",
+"endereco": "Alameda Madrid - Jd Sevilha - TO",
+"tel": "(63) 98416-4298",
+"email": "jaldomartinss@hotmail.com",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Palmas (Vinho Novo)",
+"pastor": "Oséia de Carvalho",
+"endereco": "Qd 405 Norte, Alameda 10, Lt 11 - Plano Dir. Norte - TO",
+"tel": "(63) 98416-4298",
+"email": "",
+"img": ""
+},
+
+{   
+"municipio": "",
+"nome": "Palmas (Primeira)",
+"pastor": "Luciano Gomes Silva Filho (Emília Theodoro)",
+"endereco": "Rodovia To-050, Km13 - Chacara 88 - TO",
+"tel": "(63) 3571-9634",
+"email": "lucianogsf@bol.com.br",
+"img": ""
+}
+
+
+            ]
+        ]
+  }
+     
